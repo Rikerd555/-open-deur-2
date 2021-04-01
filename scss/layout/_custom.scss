@@ -153,6 +153,31 @@ ul {
     }
   }
 }
+#card-body {
+  padding: 2rem;
+
+  #arrow-buttons {
+  height: 40px;
+  background-color: #00A1E1;
+  color: #fff;
+  &:hover {
+    color: #4ecdff;
+  }
+  }
+.card {
+  padding: 0px 20px 0 20px;
+  border: none;
+  }
+
+.card-img-top {
+  background-color: #E6302B;
+}
+
+#black-text {
+  color: #11131a;
+  background-color: #f0f0f0b9;
+}
+}
 
 #footer {
   background: #11131a;
